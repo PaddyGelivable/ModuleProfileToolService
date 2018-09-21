@@ -10,3 +10,9 @@ F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\bin\ModuleProfile
 F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\obj\Debug\ModuleProfileToolService.csprojResolveAssemblyReference.cache
 F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\obj\Debug\ModuleProfileToolService.dll
 F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\obj\Debug\ModuleProfileToolService.pdb
+F:\My Project\ModuleProfileToolService\ModuleProfileToolService\bin\ModuleProfileToolService.dll.config
+F:\My Project\ModuleProfileToolService\ModuleProfileToolService\bin\ModuleProfileToolService.dll
+F:\My Project\ModuleProfileToolService\ModuleProfileToolService\bin\ModuleProfileToolService.pdb
+F:\My Project\ModuleProfileToolService\ModuleProfileToolService\obj\Debug\ModuleProfileToolService.csprojResolveAssemblyReference.cache
+F:\My Project\ModuleProfileToolService\ModuleProfileToolService\obj\Debug\ModuleProfileToolService.dll
+F:\My Project\ModuleProfileToolService\ModuleProfileToolService\obj\Debug\ModuleProfileToolService.pdb

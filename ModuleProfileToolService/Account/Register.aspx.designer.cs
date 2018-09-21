@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CallAsmxViajQuery.Account
+namespace ModuleProfileToolService.Account
 {
 
 

@@ -1,1 +1,1 @@
-﻿<%@ WebService Language="C#" CodeBehind="HelloService.asmx.cs" Class="CallAsmxViajQuery.HelloService" %>
+﻿<%@ WebService Language="C#" CodeBehind="HelloService.asmx.cs" Class="ModuleProfileToolService.HelloService" %>

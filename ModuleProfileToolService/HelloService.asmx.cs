@@ -6,7 +6,7 @@ using System.Web.Services;
 using System.Web.Script.Serialization;
 using System.Web.Script.Services;
 
-namespace CallAsmxViajQuery
+namespace ModuleProfileToolService
 {
     /// <summary>
     /// Summary description for HelloService

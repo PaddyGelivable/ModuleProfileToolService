@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CallAsmxViajQuery {
+namespace ModuleProfileToolService {
     
     
     public partial class index {
