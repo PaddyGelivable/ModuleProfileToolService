@@ -1,0 +1,10 @@
+c:\users\jay\documents\visual studio 2010\Projects\CallAsmxViajQuery\CallAsmxViajQuery\bin\CallAsmxViajQuery.dll
+c:\users\jay\documents\visual studio 2010\Projects\CallAsmxViajQuery\CallAsmxViajQuery\bin\CallAsmxViajQuery.pdb
+c:\users\jay\documents\visual studio 2010\Projects\CallAsmxViajQuery\CallAsmxViajQuery\obj\Debug\CallAsmxViajQuery.dll
+c:\users\jay\documents\visual studio 2010\Projects\CallAsmxViajQuery\CallAsmxViajQuery\obj\Debug\CallAsmxViajQuery.pdb
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\bin\CallAsmxViajQuery.dll.config
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\bin\CallAsmxViajQuery.dll
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\bin\CallAsmxViajQuery.pdb
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\obj\Debug\CallAsmxViajQuery.dll
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\obj\Debug\CallAsmxViajQuery.pdb
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\obj\Debug\CallAsmxViajQuery.csprojResolveAssemblyReference.cache

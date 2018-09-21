@@ -1,0 +1,12 @@
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\bin\ModuleProfileToolService.dll.config
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\bin\ModuleProfileToolService.dll
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\bin\ModuleProfileToolService.pdb
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\obj\Debug\ModuleProfileToolService.csprojResolveAssemblyReference.cache
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\obj\Debug\ModuleProfileToolService.dll
+F:\CallWebService\CallAsmxUsingjQuery\CallAsmxViajQuery\obj\Debug\ModuleProfileToolService.pdb
+F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\bin\ModuleProfileToolService.dll.config
+F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\bin\ModuleProfileToolService.dll
+F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\bin\ModuleProfileToolService.pdb
+F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\obj\Debug\ModuleProfileToolService.csprojResolveAssemblyReference.cache
+F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\obj\Debug\ModuleProfileToolService.dll
+F:\CallWebService\CallAsmxUsingjQuery\ModuleProfileToolService\obj\Debug\ModuleProfileToolService.pdb
